@@ -1,4 +1,4 @@
-# CS129.1Lectures
+# EDITCS129.1Lectures
 This is a repo for notes and other class files.
 
 ## Class information:
